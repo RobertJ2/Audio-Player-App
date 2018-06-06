@@ -14,6 +14,7 @@
 		2996C4271FF5C975002714EA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2996C4251FF5C975002714EA /* LaunchScreen.storyboard */; };
 		2996C4321FF5C976002714EA /* Audio_PlayerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2996C4311FF5C976002714EA /* Audio_PlayerTests.swift */; };
 		2996C43D1FF5C976002714EA /* Audio_PlayerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2996C43C1FF5C976002714EA /* Audio_PlayerUITests.swift */; };
+		2996C44D1FF5CCE8002714EA /* sheep.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2996C44C1FF5CCE8002714EA /* sheep.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		2996C4381FF5C976002714EA /* Audio PlayerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Audio PlayerUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2996C43C1FF5C976002714EA /* Audio_PlayerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Audio_PlayerUITests.swift; sourceTree = "<group>"; };
 		2996C43E1FF5C976002714EA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2996C44C1FF5CCE8002714EA /* sheep.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = sheep.mp3; path = ../../../sheep.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				2996C41C1FF5C975002714EA /* AppDelegate.swift */,
 				2996C41E1FF5C975002714EA /* ViewController.swift */,
 				2996C4201FF5C975002714EA /* Main.storyboard */,
+				2996C44C1FF5CCE8002714EA /* sheep.mp3 */,
 				2996C4231FF5C975002714EA /* Assets.xcassets */,
 				2996C4251FF5C975002714EA /* LaunchScreen.storyboard */,
 				2996C4281FF5C975002714EA /* Info.plist */,
@@ -232,6 +235,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2996C44D1FF5CCE8002714EA /* sheep.mp3 in Resources */,
 				2996C4271FF5C975002714EA /* LaunchScreen.storyboard in Resources */,
 				2996C4241FF5C975002714EA /* Assets.xcassets in Resources */,
 				2996C4221FF5C975002714EA /* Main.storyboard in Resources */,
